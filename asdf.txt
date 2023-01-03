@@ -1,2 +1,3 @@
 here are new changes in myClonedBranch2
 here are new changes in newBranchCheck
+A quick brown fox jumps over a lazy dog.
