@@ -1,1 +1,1 @@
-here are new changes in master
+here are new changes in newBranchCheck
